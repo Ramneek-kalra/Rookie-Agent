@@ -1,0 +1,24 @@
+{
+  "name": "bot_ai",
+  "version": "1.0.0",
+  "description": "The Intelligent Bot Service for First Time which will respond to basic Introduction Queries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bot",
+    "AI",
+    "Introduction"
+  ],
+  "author": "Ramneek Kalra",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "dialog": "^0.3.1",
+    "dotenv-extended": "^2.0.1",
+    "node-emoji": "^1.8.1",
+    "restify": "^6.3.4",
+    "waterfall": "^1.0.0"
+  }
+}
